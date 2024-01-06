@@ -39,5 +39,7 @@ a{
 }
 
 a:hover{
-    background-color: red;
+    text-decoration: none;
+    color: black;
+    background-color: white;
 }
