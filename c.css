@@ -27,7 +27,7 @@ img{
     animation-duration: 1s;
     animation-iteration-count: infinite;
     box-shadow: blue 2px 3px 9px;
-    border-radius: 50%;
+    border-radius: 11px;
 }
 a{
     background-color: rgb(170, 162, 177);
