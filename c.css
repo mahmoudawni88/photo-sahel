@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+
+.main.st-emotion-cache-uf99v8.ea3mdgi3{
+    background:linear-gradient(to left ,rgb(224, 116, 116),rgb(149, 149, 212));
+    font-family: 'Lalezar';
+}
+
+div{
+    font-family: 'Lalezar';
+}
+
+
+p{
+    font-family: 'Lalezar';
+}
+
+@keyframes imgg {
+
+    10%{box-shadow: rgb(129, 129, 167) 2px 3px 9px;}
+    20%{box-shadow: rgb(19, 214, 45) 2px 3px 9px;}
+    40%{box-shadow: rgb(137, 151, 9) 2px 3px 9px;}
+    80%{box-shadow: rgb(194, 29, 139) 2px 3px 9px;}
+    
+}
+img{
+    animation-name: imgg;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    box-shadow: blue 2px 3px 9px;
+    border-radius: 50%;
+}
+a{
+    background-color: rgb(170, 162, 177);
+    border-radius: 5px;
+    text-decoration: none;
+    border-style: groove;
+    color: black;
+    padding: 4px;
+}
