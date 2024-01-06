@@ -37,3 +37,7 @@ a{
     color: black;
     padding: 4px;
 }
+
+a:hover{
+    background-color: red;
+}
