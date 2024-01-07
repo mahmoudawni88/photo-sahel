@@ -23,6 +23,7 @@ def main():
         with c1:
      # st.markdown(f'<a href="tel:{phone_number}">{phone_number}</a>', unsafe_allow_html=True)
             st.markdown("[شمار ه تماس](tel:989025342900)")
+            st.markdown("[وبسایت](https://goldenbeachhotel.ir)")
     
     
 
