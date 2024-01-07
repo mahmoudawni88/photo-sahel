@@ -34,7 +34,7 @@ def main():
 
 
     st.divider()
-    st.write("تغییر سایز عکس با فوتو قشمی خیلی ساده و آسان")
+    st.write("تغییر سایز عکس با فوتو قشمی خیلی سریع و آسان")
 
     # بارگذاری تصویر
     uploaded_image = st.file_uploader("تصویر را انتخاب کنید", type=["jpg", "jpeg", "png"])
